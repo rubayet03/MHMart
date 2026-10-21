@@ -4,7 +4,7 @@
 * **Project Name:** MHMart
 * **Architecture Pattern:** Decoupled Client-Server (Single-Page Application frontend with RESTful Web API backend)
 * **Development OS:** Ubuntu Linux
-* **Reference Model:** E-commerce grocery/essentials shop (similar to ValoBazar)
+* **Reference Model:** E-commerce grocery/essentials shop 
 
 ---
 
